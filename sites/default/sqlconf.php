@@ -6,10 +6,10 @@
 global $disable_utf8_flag;
 $disable_utf8_flag = false;
 
-$host	= '127.0.0.1';
+$host	= '192.168.2.16';
 $port	= '3306';
 $login	= 'openemr';
-$pass	= 'root';
+$pass	= 'openemr';
 $dbase	= 'openemr';
 
 $sqlconf = array();
@@ -24,7 +24,7 @@ $sqlconf["dbase"] = $dbase;
 //////////////////////////
 //////////////////////////
 //////DO NOT TOUCH THIS///
-$config = 0; /////////////
+$config = 1; /////////////
 //////////////////////////
 //////////////////////////
 //////////////////////////
