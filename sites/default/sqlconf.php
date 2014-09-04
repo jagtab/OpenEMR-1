@@ -6,7 +6,7 @@
 global $disable_utf8_flag;
 $disable_utf8_flag = false;
 
-$host	= '202.153.40.194';
+$host	= '192.168.2.16';
 $port	= '3306';
 $login	= 'ba9a00a29da6b6';
 $pass	= '311ddd09';
