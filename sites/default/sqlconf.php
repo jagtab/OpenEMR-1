@@ -6,11 +6,11 @@
 global $disable_utf8_flag;
 $disable_utf8_flag = false;
 
-$host	= '192.168.2.16';
+$host	= '127.0.0.1';
 $port	= '3306';
-$login	= 'ba9a00a29da6b6';
-$pass	= '311ddd09';
-$dbase	= 'healthcAIyycV0Gp';
+$login	= 'openemr';
+$pass	= 'openemr';
+$dbase	= 'openemr';
 
 $sqlconf = array();
 global $sqlconf;
