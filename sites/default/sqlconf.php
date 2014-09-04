@@ -6,7 +6,7 @@
 global $disable_utf8_flag;
 $disable_utf8_flag = false;
 
-$host	= '202.153.40.194';
+$host	= '192.168.2.16';
 $port	= '3306';
 $login	= 'openemr';
 $pass	= 'openemr';
