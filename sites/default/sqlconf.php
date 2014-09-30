@@ -8,8 +8,8 @@ $disable_utf8_flag = false;
 
 $host	= '100.77.140.116';
 $port	= '3306';
-$login	= 'root';
-$pass	= 'root';
+$login	= 'openemr';
+$pass	= 'openemr';
 $dbase	= 'openemr';
 
 $sqlconf = array();
